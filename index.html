@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KBC Quiz Game by Min</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>KBC Quiz Game</h1>
+        <div class="game-box">
+            <div class="lifelines">
+                <button id="fifty-fifty">50-50</button>
+                <button id="phone-friend">Phone a Friend</button>
+            </div>
+            <div class="question-box">
+                <h2 id="question">Question will appear here</h2>
+            </div>
+            <div class="options">
+                <button class="option" data-index="0">A: <span></span></button>
+                <button class="option" data-index="1">B: <span></span></button>
+                <button class="option" data-index="2">C: <span></span></button>
+                <button class="option" data-index="3">D: <span></span></button>
+            </div>
+            <div class="score-box">
+                <p>Prize Money: ₹<span id="money">0</span></p>
+            </div>
+            <button id="start-btn">Start Game</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
