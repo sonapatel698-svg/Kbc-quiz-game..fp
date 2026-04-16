@@ -1,2 +1,2 @@
-# Kbc-quiz-game..fp
+# Kbc-quiz-game
 This is my first repository 
