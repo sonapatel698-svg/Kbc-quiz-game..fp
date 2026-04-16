@@ -2,11 +2,6 @@
 
 A Kaun Banega Crorepati style quiz game built with HTML, CSS & JavaScript.
 
-**▶️ Play Live:** 
-# KBC Quiz Game 🎮
-
-A Kaun Banega Crorepati style quiz game built with HTML, CSS & JavaScript.
-
 **▶️ Play Live:** https://sonapatel698-svg.github.io/Kbc-quiz-game..fp/
 
 ### Features:
